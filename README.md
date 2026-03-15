@@ -1,7 +1,7 @@
 # Parallel Safety Orchestrator & Safety Entropy Architecture
 
 **Project:** Implementation and Evaluation of Safety Wrappers for Black-Box Language Models
-**Author:** Shamszaman, Zia Ush
+
 
 ## Overview
 
